@@ -12,6 +12,8 @@ with hands-on project experience across enterprise security frameworks. Currentl
 building toward a career as a GRC Analyst or Compliance Analyst, with a strong
 interest in AI governance and cloud security.
 
+![Mallikah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CyberButterfly2&show_icons=true&theme=default&hide_border=true)
+
 ---
 
 ## Frameworks & Skills
