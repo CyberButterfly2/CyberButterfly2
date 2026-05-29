@@ -16,8 +16,26 @@ interest in AI governance and cloud security.
 
 ## Frameworks & Skills
 
-`ISO 27001` `NIST CSF` `SOC 2` `PCI DSS` `HIPAA` `GDPR` `CMMC` `CIS Controls`  
-`ISO 42001` `NIST AI RMF` `COBIT` `Zero Trust` `Third-Party Risk` `Cloud Security`
+![ISO 27001](https://img.shields.io/badge/ISO%2027001-0052CC?style=for-the-badge&logoColor=white)
+![NIST CSF](https://img.shields.io/badge/NIST%20CSF-1A6B3C?style=for-the-badge&logoColor=white)
+![SOC 2](https://img.shields.io/badge/SOC%202-7B2D8B?style=for-the-badge&logoColor=white)
+![PCI DSS](https://img.shields.io/badge/PCI%20DSS-C0392B?style=for-the-badge&logoColor=white)
+![HIPAA](https://img.shields.io/badge/HIPAA-1A6B3C?style=for-the-badge&logoColor=white)
+![GDPR](https://img.shields.io/badge/GDPR-003399?style=for-the-badge&logoColor=white)
+![CMMC](https://img.shields.io/badge/CMMC-8B4513?style=for-the-badge&logoColor=white)
+![CIS Controls](https://img.shields.io/badge/CIS%20Controls-2C3E50?style=for-the-badge&logoColor=white)
+![ISO 42001](https://img.shields.io/badge/ISO%2042001-4A235A?style=for-the-badge&logoColor=white)
+![COBIT](https://img.shields.io/badge/COBIT-5D6D7E?style=for-the-badge&logoColor=white)
+![GRC](https://img.shields.io/badge/GRC-0052CC?style=for-the-badge&logoColor=white)
+![Risk Assessment](https://img.shields.io/badge/Risk%20Assessment-E67E22?style=for-the-badge&logoColor=white)
+![Third-Party Risk](https://img.shields.io/badge/Third--Party%20Risk-C0392B?style=for-the-badge&logoColor=white)
+![Audit Support](https://img.shields.io/badge/Audit%20Support-27AE60?style=for-the-badge&logoColor=white)
+![Policy Development](https://img.shields.io/badge/Policy%20Development-7B2D8B?style=for-the-badge&logoColor=white)
+![Incident Response](https://img.shields.io/badge/Incident%20Response-C0392B?style=for-the-badge&logoColor=white)
+![Zero Trust](https://img.shields.io/badge/Zero%20Trust-2C3E50?style=for-the-badge&logoColor=white)
+![Cloud Security](https://img.shields.io/badge/Cloud%20Security-1A6B3C?style=for-the-badge&logoColor=white)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=for-the-badge&logoColor=white)
+![UAE Based](https://img.shields.io/badge/UAE%20Based-E74C3C?style=for-the-badge&logoColor=white)
 
 ---
 
